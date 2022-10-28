@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beazlps
-- 👀 I’m interested in food science and stuff
+- 👀 I’m interested in science and games
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data science and food science reasearch
 - 📫 How to reach me: bealopes94@gmail.com
