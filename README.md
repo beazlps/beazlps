@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beazlps
+- 👋 Hi, I’m Beatriz
 - 👀 I’m interested in science and games
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on data science and food science reasearch
